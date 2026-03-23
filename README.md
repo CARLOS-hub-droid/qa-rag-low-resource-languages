@@ -1,4 +1,4 @@
-Master thesis : QA Chatbot for Low-Resource African Languages using RAG - AIMS Cameroun 2026
+# Master thesis : QA Chatbot for Low-Resource African Languages using RAG - AIMS Cameroun 2026
 # QA Chatbot for Low-Resource African Languages
 
 ## 📌 Description
@@ -40,16 +40,15 @@ qa-rag-low-resource-languages/
 ---
 
 ## 📚 Target Language
-[Your target African language - to be confirmed by supervisor]
+[Our target African language]
 
 ---
 
 ## 👤 Author
-Your Name - AIMS Cameroun 2026
+Michaud Carlos Kouétsa - AIMS Cameroun 2026
 ````
 ````
 
 ---
-et à la fin. Ça crée un bloc de code qui préserve les espaces et les lignes. 💪
 
 Copiez ce texte, collez-le dans votre README et ça s'affichera parfaitement ! 🚀
