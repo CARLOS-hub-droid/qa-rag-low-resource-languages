@@ -1,4 +1,3 @@
-# Master thesis : QA Chatbot for Low-Resource African Languages using RAG - AIMS Cameroun 2026
 # QA Chatbot for Low-Resource African Languages
 
 ## 📌 Description
