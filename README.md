@@ -50,5 +50,3 @@ Michaud Carlos Kouétsa - AIMS Cameroun 2026
 ````
 
 ---
-
-Copiez ce texte, collez-le dans votre README et ça s'affichera parfaitement ! 🚀
